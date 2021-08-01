@@ -8,3 +8,5 @@
 </a>
 
 This is where i host my blog. Fell free to contribute ideas and whatnot
+
+Resume lives at [Sync_Pundit](https://github.com/Deon-Trevor/Sync_Pundit)
