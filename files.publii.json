@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "5fdd62596944157200faeb8caa498072"
+        "md5": "3ad244d8684b6b8d698cd9b9f7451341"
     },
     {
         "path": "amp",
@@ -302,12 +302,12 @@
     {
         "path": "/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "40bb302670609f8e2ee87a9cff98ac03"
+        "md5": "ee72053bd3176ce4264abe44c3754bf5"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "f81dd6a65694f418ed363952fafbf709"
+        "md5": "5b0a5f9a499529f906f0c5236224e616"
     },
     {
         "path": "media",
@@ -1757,7 +1757,7 @@
     {
         "path": "/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "5977e2d1536c38c55909f84841f533fb"
+        "md5": "dd7199916d8e8904e99ee0d7d7425bc4"
     },
     {
         "path": "sitemap.xml",
@@ -1777,7 +1777,7 @@
     {
         "path": "/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "cc5de8b16013780bb9fb3d556611c1d6"
+        "md5": "200b63872165896a4667381fecc3a62f"
     },
     {
         "path": "sync",
@@ -1792,7 +1792,7 @@
     {
         "path": "/sync/research/index.html",
         "type": "file",
-        "md5": "8a9bd8cf6d652385b75d490d09b4b2ad"
+        "md5": "32d6ec523457fac0973c86386bcb6356"
     },
     {
         "path": "sync/walkthroughs",
@@ -1802,7 +1802,7 @@
     {
         "path": "/sync/walkthroughs/index.html",
         "type": "file",
-        "md5": "9326e0af1254ad6b43f25549ce7091ce"
+        "md5": "516c86c65d9b3e0275730ed8eb24fd11"
     },
     {
         "path": "vulnversity-walkthrough",
@@ -1812,6 +1812,6 @@
     {
         "path": "/vulnversity-walkthrough/index.html",
         "type": "file",
-        "md5": "f7fb70b5948122e81f02e02c723cbeb0"
+        "md5": "d215a012ab2ae86de727217a8c85fb45"
     }
 ]
