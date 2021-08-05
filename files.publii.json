@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3ad244d8684b6b8d698cd9b9f7451341"
+        "md5": "2b96a333bb6b875c9451a5512ddeda9f"
     },
     {
         "path": "amp",
@@ -22,12 +22,22 @@
     {
         "path": "/amp/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "48cbd34dff075053bfb7166d847a8a9b"
+        "md5": "13c574f23d9f9abd43a08320d49b7e3e"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "35d629d6c5a666b0ea5667324c9af261"
+        "md5": "287d2599fb619038c974577ed3f79118"
+    },
+    {
+        "path": "amp/metamask-phishing-site",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/metamask-phishing-site/index.html",
+        "type": "file",
+        "md5": "c635a9fc32d4ba861baf53a82e7cbac2"
     },
     {
         "path": "amp/pancakeswap-and-cream-finance-dns-attack",
@@ -37,7 +47,7 @@
     {
         "path": "/amp/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "e1b51dea49d3340fe5a54c9c88973dc4"
+        "md5": "c1aa46d881a34bfbe951a4983ae4cab2"
     },
     {
         "path": "amp/spacex-bitcoin-giveaway",
@@ -47,12 +57,22 @@
     {
         "path": "/amp/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "afccff2e2824de1330b9d891a2f99a14"
+        "md5": "0a05c0fc67bcc51dfa77a6049b37f340"
     },
     {
         "path": "amp/sync",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "amp/sync/phishing",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/sync/phishing/index.html",
+        "type": "file",
+        "md5": "821afe97c416f0e8bb0724ed5292c6c0"
     },
     {
         "path": "amp/sync/research",
@@ -62,7 +82,7 @@
     {
         "path": "/amp/sync/research/index.html",
         "type": "file",
-        "md5": "29b41604d9141af49bfc314513207604"
+        "md5": "f7c3aae4798c60f29f2ff939996ea6d5"
     },
     {
         "path": "amp/sync/walkthroughs",
@@ -72,7 +92,7 @@
     {
         "path": "/amp/sync/walkthroughs/index.html",
         "type": "file",
-        "md5": "051cb7f5f543848ca92006a5089129cd"
+        "md5": "304f724637de0dd1b761fb52a61f6cb3"
     },
     {
         "path": "amp/vulnversity-walkthrough",
@@ -82,7 +102,7 @@
     {
         "path": "/amp/vulnversity-walkthrough/index.html",
         "type": "file",
-        "md5": "62485267059de968604875d134cd09da"
+        "md5": "3eddb3bbe8839b7a4e70550e6359886b"
     },
     {
         "path": "assets",
@@ -302,12 +322,12 @@
     {
         "path": "/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "ee72053bd3176ce4264abe44c3754bf5"
+        "md5": "d1b2bd6b5a21bb68b77ea7aa074dcad8"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "5b0a5f9a499529f906f0c5236224e616"
+        "md5": "ce58abed367e131c112a47c60a03d940"
     },
     {
         "path": "media",
@@ -1565,6 +1585,361 @@
         "md5": "75b02b8f812fc1d8f934c98f15ea83d9"
     },
     {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/metamask-POST.png",
+        "type": "file",
+        "md5": "e11b56dad112478e6c9f4678a24ab51b"
+    },
+    {
+        "path": "/media/posts/4/metamask-dos.png",
+        "type": "file",
+        "md5": "f5fa93402366fff248fb37bd795856c1"
+    },
+    {
+        "path": "/media/posts/4/metamask-landing-page-2.png",
+        "type": "file",
+        "md5": "e94da8d2ac1e57e1e1f2e6ec5498bd31"
+    },
+    {
+        "path": "/media/posts/4/metamask-landing-page.png",
+        "type": "file",
+        "md5": "e94da8d2ac1e57e1e1f2e6ec5498bd31"
+    },
+    {
+        "path": "/media/posts/4/metamask-phishers-convo.jpg",
+        "type": "file",
+        "md5": "c36a282f5011ff541fbebed6a17a4ad6"
+    },
+    {
+        "path": "/media/posts/4/metamask-related-on-phishfort.png",
+        "type": "file",
+        "md5": "7603ee512c7957b47bef43b6932a03f6"
+    },
+    {
+        "path": "/media/posts/4/metamask-server-down.png",
+        "type": "file",
+        "md5": "3aff08821248cbe147ca982a2f0f266d"
+    },
+    {
+        "path": "/media/posts/4/metamask-urlscan-similar.png",
+        "type": "file",
+        "md5": "9d896244a7bc8ae39cac86b4b8094afb"
+    },
+    {
+        "path": "/media/posts/4/metamask-wallet-page.png",
+        "type": "file",
+        "md5": "4ae5bea1363753d669205ce22f9ac691"
+    },
+    {
+        "path": "/media/posts/4/metamask-weird-wallet.png",
+        "type": "file",
+        "md5": "2a0d40c8ad05ebf1943ff520e6fe9b48"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-POST-2xl.png",
+        "type": "file",
+        "md5": "2107cf58ffb1d3dac6c01a2bbd02c954"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-POST-lg.png",
+        "type": "file",
+        "md5": "2107cf58ffb1d3dac6c01a2bbd02c954"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-POST-md.png",
+        "type": "file",
+        "md5": "8b2a982a28473332e5ccff326010538c"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-POST-sm.png",
+        "type": "file",
+        "md5": "6a663c8c0f76fb24457ca84b5924dd32"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-POST-xl.png",
+        "type": "file",
+        "md5": "2107cf58ffb1d3dac6c01a2bbd02c954"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-POST-xs.png",
+        "type": "file",
+        "md5": "8f9de609678c3e9f9a0ddafd211fd78f"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-dos-2xl.png",
+        "type": "file",
+        "md5": "a1978f92eec84647581d819ab367c25d"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-dos-lg.png",
+        "type": "file",
+        "md5": "50a03ac53d2eba3f4e1c9285a50574a3"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-dos-md.png",
+        "type": "file",
+        "md5": "110999e9576d339f0713b30d42243a85"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-dos-sm.png",
+        "type": "file",
+        "md5": "3f17c2cd552fd492d07ff70aedab96cd"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-dos-xl.png",
+        "type": "file",
+        "md5": "a1978f92eec84647581d819ab367c25d"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-dos-xs.png",
+        "type": "file",
+        "md5": "dfce953c1233e5d10b3b53b60d833f6b"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-2-2xl.png",
+        "type": "file",
+        "md5": "fce8aaa5a39590a7dff93e9b4ecb1481"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-2-lg.png",
+        "type": "file",
+        "md5": "fce8aaa5a39590a7dff93e9b4ecb1481"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-2-md.png",
+        "type": "file",
+        "md5": "0ebf436a902c5832a096466493e7763a"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-2-sm.png",
+        "type": "file",
+        "md5": "9dc5a9a2a75b8527a9298861bc8e8b04"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-2-xl.png",
+        "type": "file",
+        "md5": "fce8aaa5a39590a7dff93e9b4ecb1481"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-2-xs.png",
+        "type": "file",
+        "md5": "0c341acf4b2bd0f5d3c64bd521a4f459"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-lg.png",
+        "type": "file",
+        "md5": "fce8aaa5a39590a7dff93e9b4ecb1481"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-md.png",
+        "type": "file",
+        "md5": "0ebf436a902c5832a096466493e7763a"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-sm.png",
+        "type": "file",
+        "md5": "9dc5a9a2a75b8527a9298861bc8e8b04"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-xl.png",
+        "type": "file",
+        "md5": "fce8aaa5a39590a7dff93e9b4ecb1481"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-landing-page-xs.png",
+        "type": "file",
+        "md5": "0c341acf4b2bd0f5d3c64bd521a4f459"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-phishers-convo-2xl.jpg",
+        "type": "file",
+        "md5": "ed8e3eb2fb0b33e4084f3568cf0b0f84"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-phishers-convo-lg.jpg",
+        "type": "file",
+        "md5": "c8c2b002f588cb2c36714f448b5ae82f"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-phishers-convo-md.jpg",
+        "type": "file",
+        "md5": "ede9a08e04194d8a75c07ecd684ad434"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-phishers-convo-sm.jpg",
+        "type": "file",
+        "md5": "b7c3e76be2522aa934602fd335e008ba"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-phishers-convo-xl.jpg",
+        "type": "file",
+        "md5": "ed8e3eb2fb0b33e4084f3568cf0b0f84"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-phishers-convo-xs.jpg",
+        "type": "file",
+        "md5": "4885328554147c39fcf5d7dd96503780"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-related-on-phishfort-2xl.png",
+        "type": "file",
+        "md5": "1cc594b5a4210997368c07402e592397"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-related-on-phishfort-lg.png",
+        "type": "file",
+        "md5": "1cc594b5a4210997368c07402e592397"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-related-on-phishfort-md.png",
+        "type": "file",
+        "md5": "1bb025eef5294bdb67f715bdfd8ace10"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-related-on-phishfort-sm.png",
+        "type": "file",
+        "md5": "21feec60dad70d2932bc388b08636e47"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-related-on-phishfort-xl.png",
+        "type": "file",
+        "md5": "1cc594b5a4210997368c07402e592397"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-related-on-phishfort-xs.png",
+        "type": "file",
+        "md5": "a02c0601e9dec6ef85ac5ccdaab80115"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-server-down-2xl.png",
+        "type": "file",
+        "md5": "3493021b8c19dfa8a5a35e1595dcc7ea"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-server-down-lg.png",
+        "type": "file",
+        "md5": "8792856db47b46c3b05c073bbe6f45a8"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-server-down-md.png",
+        "type": "file",
+        "md5": "50d47910cf8c9deeec480930ada63b06"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-server-down-sm.png",
+        "type": "file",
+        "md5": "5df34dd926475ccbf43d2f82bfb8747d"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-server-down-xl.png",
+        "type": "file",
+        "md5": "3493021b8c19dfa8a5a35e1595dcc7ea"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-server-down-xs.png",
+        "type": "file",
+        "md5": "32ff6e050c0e7fb4792560248228d162"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-urlscan-similar-2xl.png",
+        "type": "file",
+        "md5": "7668e9e02733b161c0b553bbdc963d8a"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-urlscan-similar-lg.png",
+        "type": "file",
+        "md5": "a869e5a8d9ff42d40907602b8d82fb8d"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-urlscan-similar-md.png",
+        "type": "file",
+        "md5": "3bcac9fc958dd4c1a0a9fae4f93e0509"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-urlscan-similar-sm.png",
+        "type": "file",
+        "md5": "1bb9be612ede5dd8b360bbf37a47f608"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-urlscan-similar-xl.png",
+        "type": "file",
+        "md5": "8d4b334a0288ae7b5d5a1ceea6ec125d"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-urlscan-similar-xs.png",
+        "type": "file",
+        "md5": "a4fac8c2373619b8c319a7342559cd31"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-wallet-page-2xl.png",
+        "type": "file",
+        "md5": "fef10a8d365fd5f3f880df7c166749dd"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-wallet-page-lg.png",
+        "type": "file",
+        "md5": "fef10a8d365fd5f3f880df7c166749dd"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-wallet-page-md.png",
+        "type": "file",
+        "md5": "fef10a8d365fd5f3f880df7c166749dd"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-wallet-page-sm.png",
+        "type": "file",
+        "md5": "fed1e7a71dea3665b8ad28eee10edf5b"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-wallet-page-xl.png",
+        "type": "file",
+        "md5": "fef10a8d365fd5f3f880df7c166749dd"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-wallet-page-xs.png",
+        "type": "file",
+        "md5": "fcc579e0c7cf60641782e45f0bde292a"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-weird-wallet-2xl.png",
+        "type": "file",
+        "md5": "fd4d7ae72bf463b1608d84b51da2040d"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-weird-wallet-lg.png",
+        "type": "file",
+        "md5": "7fe612b90e2fc2b2e440d0f9e71a42c2"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-weird-wallet-md.png",
+        "type": "file",
+        "md5": "e4bf083f33052da3362c3dec42236e49"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-weird-wallet-sm.png",
+        "type": "file",
+        "md5": "7cd96ec27289c178f5f09cb04b8ea0d8"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-weird-wallet-xl.png",
+        "type": "file",
+        "md5": "fd4d7ae72bf463b1608d84b51da2040d"
+    },
+    {
+        "path": "/media/posts/4/responsive/metamask-weird-wallet-xs.png",
+        "type": "file",
+        "md5": "a468b99668d3fbc2f7174ec92a944bbf"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -1750,6 +2125,16 @@
         "md5": "4f5ac88578c01fcc3b39be8679e0a7b3"
     },
     {
+        "path": "metamask-phishing-site",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/metamask-phishing-site/index.html",
+        "type": "file",
+        "md5": "66aa342b2678c8b37dd628254dcc1a1d"
+    },
+    {
         "path": "pancakeswap-and-cream-finance-dns-attack",
         "type": "directory",
         "md5": false
@@ -1757,12 +2142,12 @@
     {
         "path": "/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "dd7199916d8e8904e99ee0d7d7425bc4"
+        "md5": "6546206fbbc5816f83b721e44de50a97"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4d93ea29701a5a916d8b871edab6c87a"
+        "md5": "b497e1cde122b0d17d808dd94281e920"
     },
     {
         "path": "sitemap.xsl",
@@ -1777,12 +2162,22 @@
     {
         "path": "/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "200b63872165896a4667381fecc3a62f"
+        "md5": "40e2e1a07c4d9fecb1d91098476968cd"
     },
     {
         "path": "sync",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "sync/phishing",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sync/phishing/index.html",
+        "type": "file",
+        "md5": "bdc8c5dc5c889c33ae6c2d57f4a71a17"
     },
     {
         "path": "sync/research",
@@ -1792,7 +2187,7 @@
     {
         "path": "/sync/research/index.html",
         "type": "file",
-        "md5": "32d6ec523457fac0973c86386bcb6356"
+        "md5": "2d63f5c1d7f6a6d8080400b00429a3d1"
     },
     {
         "path": "sync/walkthroughs",
@@ -1802,7 +2197,7 @@
     {
         "path": "/sync/walkthroughs/index.html",
         "type": "file",
-        "md5": "516c86c65d9b3e0275730ed8eb24fd11"
+        "md5": "49784f1767b261ac2930f8057f82ef7a"
     },
     {
         "path": "vulnversity-walkthrough",
@@ -1812,6 +2207,6 @@
     {
         "path": "/vulnversity-walkthrough/index.html",
         "type": "file",
-        "md5": "d215a012ab2ae86de727217a8c85fb45"
+        "md5": "4fa6d8c2873226517daeef28201f1790"
     }
 ]
