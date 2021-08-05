@@ -5,8 +5,52 @@
 <loc>https://blog.syncpundit.ml/</loc>
 </url>
 <url>
+<loc>https://blog.syncpundit.ml/metamask-phishing-site/</loc>
+<lastmod>2021-08-05T02:31:07+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-landing-page.png</image:loc>
+<image:title><![CDATA[MetaMask Phishing Landing Page]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-landing-page-2.png</image:loc>
+<image:title><![CDATA[MetaMask Phish Landing Page]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-wallet-page.png</image:loc>
+<image:title><![CDATA[MetaMask Phish Kit seed harvester page]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-weird-wallet.png</image:loc>
+<image:title><![CDATA[MetaMask Phish Kit Fake Wallet]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-POST.png</image:loc>
+<image:title><![CDATA[MetaMask Phish Kit POST request]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-dos.png</image:loc>
+<image:title><![CDATA[MetaMask Phish Kit DOS]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-server-down.png</image:loc>
+<image:title><![CDATA[MetaMask Phish Kit down]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-phishers-convo.jpg</image:loc>
+<image:title><![CDATA[MetaMask Phishers conversation]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-urlscan-similar.png</image:loc>
+<image:title><![CDATA[MetaMask Phish Kit on URLScan]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-related-on-phishfort.png</image:loc>
+<image:title><![CDATA[MetaMask Phish Kit on Phishfort]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://blog.syncpundit.ml/pancakeswap-and-cream-finance-dns-attack/</loc>
-<lastmod>2021-03-31T03:26:19+02:00</lastmod>
+<lastmod>2021-08-05T02:32:57+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/2/pan2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -22,7 +66,7 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.ml/spacex-bitcoin-giveaway/</loc>
-<lastmod>2020-08-13T14:47:47+02:00</lastmod>
+<lastmod>2021-08-05T02:36:20+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/1/unnamed-2-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -86,7 +130,7 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.ml/vulnversity-walkthrough/</loc>
-<lastmod>2021-07-23T23:39:52+02:00</lastmod>
+<lastmod>2021-08-05T02:32:29+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/3/vulversity-2.png</image:loc>
 <image:title><![CDATA[vulnversity home page]]></image:title>
