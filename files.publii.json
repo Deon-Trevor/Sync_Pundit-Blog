@@ -2132,7 +2132,7 @@
     {
         "path": "/metamask-phishing-site/index.html",
         "type": "file",
-        "md5": "66aa342b2678c8b37dd628254dcc1a1d"
+        "md5": "455704798f71200abf5780ca02681c12"
     },
     {
         "path": "pancakeswap-and-cream-finance-dns-attack",
@@ -2142,7 +2142,7 @@
     {
         "path": "/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "6546206fbbc5816f83b721e44de50a97"
+        "md5": "4bb27cd7feba7ab2875da717d5d04246"
     },
     {
         "path": "sitemap.xml",
@@ -2162,7 +2162,7 @@
     {
         "path": "/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "40e2e1a07c4d9fecb1d91098476968cd"
+        "md5": "83da5b34d3fde60e298a632ca10a1f2d"
     },
     {
         "path": "sync",
@@ -2207,6 +2207,6 @@
     {
         "path": "/vulnversity-walkthrough/index.html",
         "type": "file",
-        "md5": "4fa6d8c2873226517daeef28201f1790"
+        "md5": "8f0e29ce4bf223e7f361f6bee1769e76"
     }
 ]
