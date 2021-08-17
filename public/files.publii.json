@@ -22,12 +22,12 @@
     {
         "path": "/amp/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "13c574f23d9f9abd43a08320d49b7e3e"
+        "md5": "f7defdc965854fe5a89967c2789cc763"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "287d2599fb619038c974577ed3f79118"
+        "md5": "458ac35d4a7d4bbfc8c1c6a8dcd2fb7d"
     },
     {
         "path": "amp/metamask-phishing-site",
@@ -37,7 +37,17 @@
     {
         "path": "/amp/metamask-phishing-site/index.html",
         "type": "file",
-        "md5": "c635a9fc32d4ba861baf53a82e7cbac2"
+        "md5": "c20260ce7dff694f8c72eecc4e796bbe"
+    },
+    {
+        "path": "amp/namecheap-home-to-phishing-sites",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/namecheap-home-to-phishing-sites/index.html",
+        "type": "file",
+        "md5": "dc46a046bfc8aa3d7af6815275f8fe65"
     },
     {
         "path": "amp/pancakeswap-and-cream-finance-dns-attack",
@@ -47,7 +57,7 @@
     {
         "path": "/amp/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "c1aa46d881a34bfbe951a4983ae4cab2"
+        "md5": "57262e762fcb5b8b79277bbf33188bc3"
     },
     {
         "path": "amp/spacex-bitcoin-giveaway",
@@ -57,7 +67,7 @@
     {
         "path": "/amp/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "0a05c0fc67bcc51dfa77a6049b37f340"
+        "md5": "114fe9e6ceeda5bc05e919028ddcd912"
     },
     {
         "path": "amp/sync",
@@ -72,7 +82,7 @@
     {
         "path": "/amp/sync/phishing/index.html",
         "type": "file",
-        "md5": "821afe97c416f0e8bb0724ed5292c6c0"
+        "md5": "31894c652c5fe904df12a22bb645f45d"
     },
     {
         "path": "amp/sync/research",
@@ -322,12 +332,12 @@
     {
         "path": "/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "d1b2bd6b5a21bb68b77ea7aa074dcad8"
+        "md5": "5494859a480b3890ec21baced316ebc8"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "ce58abed367e131c112a47c60a03d940"
+        "md5": "2182edb4e0a0ef27964da8741c16f5f9"
     },
     {
         "path": "media",
@@ -1940,6 +1950,191 @@
         "md5": "a468b99668d3fbc2f7174ec92a944bbf"
     },
     {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/NameCheapTicket.png",
+        "type": "file",
+        "md5": "dbc598bc05df63be7989b053eb946593"
+    },
+    {
+        "path": "/media/posts/5/NameCheapTweet.png",
+        "type": "file",
+        "md5": "6769702d28e366e67ad355c45b51edcb"
+    },
+    {
+        "path": "/media/posts/5/gaara.gif",
+        "type": "file",
+        "md5": "4c6c4d5a9fc7b38252b532ae2ab910aa"
+    },
+    {
+        "path": "/media/posts/5/namecheap.png",
+        "type": "file",
+        "md5": "fd661a55fff51b5a8309888325bdf6a6"
+    },
+    {
+        "path": "/media/posts/5/namecheapTweet.png",
+        "type": "file",
+        "md5": "53659ebf08ada9c668568c5e74e485e6"
+    },
+    {
+        "path": "/media/posts/5/namecheaptweet.png",
+        "type": "file",
+        "md5": "ed85b98ac15190d717171b161a1c838e"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTicket-2xl.png",
+        "type": "file",
+        "md5": "a5908a89ac3b3819426687afaa806f27"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTicket-lg.png",
+        "type": "file",
+        "md5": "a5908a89ac3b3819426687afaa806f27"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTicket-md.png",
+        "type": "file",
+        "md5": "77bc88eab5b7f1d7aa77b4461298a85c"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTicket-sm.png",
+        "type": "file",
+        "md5": "60778d042463fc9e7b05dc50635f466a"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTicket-xl.png",
+        "type": "file",
+        "md5": "a5908a89ac3b3819426687afaa806f27"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTicket-xs.png",
+        "type": "file",
+        "md5": "15b4590c601ba7c3731d56a6d357d7c5"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTweet-2xl.png",
+        "type": "file",
+        "md5": "5ee84cad3d790113ef9befd5c56d3c64"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTweet-lg.png",
+        "type": "file",
+        "md5": "5ee84cad3d790113ef9befd5c56d3c64"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTweet-md.png",
+        "type": "file",
+        "md5": "5ee84cad3d790113ef9befd5c56d3c64"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTweet-sm.png",
+        "type": "file",
+        "md5": "619222d48005e61c971d4c9255c64a5b"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTweet-xl.png",
+        "type": "file",
+        "md5": "5ee84cad3d790113ef9befd5c56d3c64"
+    },
+    {
+        "path": "/media/posts/5/responsive/NameCheapTweet-xs.png",
+        "type": "file",
+        "md5": "ba8cdd9ee65644a71694fd08f3bb73b2"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheap-lg.png",
+        "type": "file",
+        "md5": "97164c3ff3db7f5f7e2ea87e96e47666"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheap-md.png",
+        "type": "file",
+        "md5": "a05236904857709af73a84249e64a277"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheap-sm.png",
+        "type": "file",
+        "md5": "7f7b2765fa9c08d57d7f859d5edad8f3"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheap-xl.png",
+        "type": "file",
+        "md5": "b74c91b795ee6462dc2e965cddb75a5a"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheap-xs.png",
+        "type": "file",
+        "md5": "b682364ddb392112c2cb1c8fc27e95bd"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheapTweet-2xl.png",
+        "type": "file",
+        "md5": "3f3323ce9c7a2d35b2858a96603160a8"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheapTweet-lg.png",
+        "type": "file",
+        "md5": "3f3323ce9c7a2d35b2858a96603160a8"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheapTweet-md.png",
+        "type": "file",
+        "md5": "3f3323ce9c7a2d35b2858a96603160a8"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheapTweet-sm.png",
+        "type": "file",
+        "md5": "4870aa888c79810fba374b8e5c6f31cc"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheapTweet-xl.png",
+        "type": "file",
+        "md5": "3f3323ce9c7a2d35b2858a96603160a8"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheapTweet-xs.png",
+        "type": "file",
+        "md5": "f21d984d4733940e2b2202da43b97a03"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheaptweet-2xl.png",
+        "type": "file",
+        "md5": "1f693a1ecccce70eb17ae364465fc227"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheaptweet-lg.png",
+        "type": "file",
+        "md5": "1f693a1ecccce70eb17ae364465fc227"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheaptweet-md.png",
+        "type": "file",
+        "md5": "1f693a1ecccce70eb17ae364465fc227"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheaptweet-sm.png",
+        "type": "file",
+        "md5": "89c5b25af3319b2c6bd257f4abf5e641"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheaptweet-xl.png",
+        "type": "file",
+        "md5": "1f693a1ecccce70eb17ae364465fc227"
+    },
+    {
+        "path": "/media/posts/5/responsive/namecheaptweet-xs.png",
+        "type": "file",
+        "md5": "7cc45903492909718338fd4a5bea52c1"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -2132,7 +2327,17 @@
     {
         "path": "/metamask-phishing-site/index.html",
         "type": "file",
-        "md5": "455704798f71200abf5780ca02681c12"
+        "md5": "4d673851586c76501183c93de02b4fd9"
+    },
+    {
+        "path": "namecheap-home-to-phishing-sites",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/namecheap-home-to-phishing-sites/index.html",
+        "type": "file",
+        "md5": "5ea13e582d045064a6de165d05458c27"
     },
     {
         "path": "pancakeswap-and-cream-finance-dns-attack",
@@ -2142,12 +2347,12 @@
     {
         "path": "/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "4bb27cd7feba7ab2875da717d5d04246"
+        "md5": "1446342576d6fecc1e13866d831c602c"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b497e1cde122b0d17d808dd94281e920"
+        "md5": "c70f7a2837290849bd995e174e88ad3d"
     },
     {
         "path": "sitemap.xsl",
@@ -2162,7 +2367,7 @@
     {
         "path": "/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "83da5b34d3fde60e298a632ca10a1f2d"
+        "md5": "4ca6eb65da255536e2baf583a330e964"
     },
     {
         "path": "sync",
@@ -2177,7 +2382,7 @@
     {
         "path": "/sync/phishing/index.html",
         "type": "file",
-        "md5": "bdc8c5dc5c889c33ae6c2d57f4a71a17"
+        "md5": "510cad90e7f6077e0c28456fde5f83c4"
     },
     {
         "path": "sync/research",
