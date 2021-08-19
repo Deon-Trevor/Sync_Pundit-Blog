@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "2b96a333bb6b875c9451a5512ddeda9f"
+        "md5": "5dbdb4493bd9e41baf2a83e2bc55c5b7"
     },
     {
         "path": "amp",
@@ -332,12 +332,12 @@
     {
         "path": "/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "5494859a480b3890ec21baced316ebc8"
+        "md5": "86edc31c1761a113cce05c05495c540d"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "2182edb4e0a0ef27964da8741c16f5f9"
+        "md5": "89abcd3421063fdfe5b0fe0bd4a0f5c5"
     },
     {
         "path": "media",
@@ -2327,7 +2327,7 @@
     {
         "path": "/metamask-phishing-site/index.html",
         "type": "file",
-        "md5": "4d673851586c76501183c93de02b4fd9"
+        "md5": "7e285f010c12d42d0a95a3cbdfa4a001"
     },
     {
         "path": "namecheap-home-to-phishing-sites",
@@ -2337,7 +2337,7 @@
     {
         "path": "/namecheap-home-to-phishing-sites/index.html",
         "type": "file",
-        "md5": "5ea13e582d045064a6de165d05458c27"
+        "md5": "552f00f7348c18c22b3b89530bf4f884"
     },
     {
         "path": "pancakeswap-and-cream-finance-dns-attack",
@@ -2347,7 +2347,7 @@
     {
         "path": "/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "1446342576d6fecc1e13866d831c602c"
+        "md5": "754697be92384326f05af8bdde432a59"
     },
     {
         "path": "sitemap.xml",
@@ -2367,7 +2367,7 @@
     {
         "path": "/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "4ca6eb65da255536e2baf583a330e964"
+        "md5": "f7f9a40451ff1786cf0e39d4edac2ae6"
     },
     {
         "path": "sync",
@@ -2382,7 +2382,7 @@
     {
         "path": "/sync/phishing/index.html",
         "type": "file",
-        "md5": "510cad90e7f6077e0c28456fde5f83c4"
+        "md5": "743a182a404e95a297e8cb03105f93f4"
     },
     {
         "path": "sync/research",
@@ -2392,7 +2392,7 @@
     {
         "path": "/sync/research/index.html",
         "type": "file",
-        "md5": "2d63f5c1d7f6a6d8080400b00429a3d1"
+        "md5": "ed716f3f3334bd02cdf0f61663766ff9"
     },
     {
         "path": "sync/walkthroughs",
@@ -2402,7 +2402,7 @@
     {
         "path": "/sync/walkthroughs/index.html",
         "type": "file",
-        "md5": "49784f1767b261ac2930f8057f82ef7a"
+        "md5": "81ef676824a8638c62705e6fae46d88c"
     },
     {
         "path": "vulnversity-walkthrough",
@@ -2412,6 +2412,6 @@
     {
         "path": "/vulnversity-walkthrough/index.html",
         "type": "file",
-        "md5": "8f0e29ce4bf223e7f361f6bee1769e76"
+        "md5": "7225f15607ae5d3f32cca6a47f791a62"
     }
 ]
