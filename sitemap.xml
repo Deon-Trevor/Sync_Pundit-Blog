@@ -5,11 +5,14 @@
 <loc>https://blog.syncpundit.ml/</loc>
 </url>
 <url>
-<loc>https://blog.syncpundit.ml/metamask-phishing-site/</loc>
-<lastmod>2021-08-14T02:14:43+02:00</lastmod>
+<loc>https://blog.syncpundit.ml/authors/sync_pundit/</loc>
+</url>
+<url>
+<loc>https://blog.syncpundit.ml/metamask-phisher-plays-the-victim/</loc>
+<lastmod>2021-09-20T19:59:22+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-landing-page.png</image:loc>
-<image:title><![CDATA[MetaMask Phishing Landing Page]]></image:title>
+<image:title><![CDATA[Fake metamask landing page]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/4/metamask-landing-page-2.png</image:loc>
@@ -50,10 +53,10 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.ml/namecheap-home-to-phishing-sites/</loc>
-<lastmod>2021-08-14T02:15:24+02:00</lastmod>
+<lastmod>2021-09-20T20:14:15+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/5/namecheap.png</image:loc>
-<image:title><![CDATA[namecheap logo]]></image:title>
+<image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/5/gaara.gif</image:loc>
@@ -78,7 +81,7 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.ml/pancakeswap-and-cream-finance-dns-attack/</loc>
-<lastmod>2021-08-10T00:44:40+02:00</lastmod>
+<lastmod>2021-09-20T20:00:34+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/2/pan2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -94,17 +97,13 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.ml/spacex-bitcoin-giveaway/</loc>
-<lastmod>2021-08-10T00:44:57+02:00</lastmod>
+<lastmod>2021-09-20T20:02:34+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/1/unnamed-2-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/1/unnamed.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>file:///home/notorious/Documents/Publii/sites/sync_pundit/input/media/posts/2//unnamed-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -140,10 +139,6 @@
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file:///home/notorious/Documents/Publii/sites/sync_pundit/input/media/posts/2//unnamed-8.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/1/unnamed-8.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
@@ -157,11 +152,20 @@
 </image:image>
 </url>
 <url>
-<loc>https://blog.syncpundit.ml/vulnversity-walkthrough/</loc>
-<lastmod>2021-08-05T02:32:29+02:00</lastmod>
+<loc>https://blog.syncpundit.ml/sync/phishing/</loc>
+</url>
+<url>
+<loc>https://blog.syncpundit.ml/sync/research/</loc>
+</url>
+<url>
+<loc>https://blog.syncpundit.ml/sync/walkthroughs/</loc>
+</url>
+<url>
+<loc>https://blog.syncpundit.ml/tryhackme-vulnversity-walkthrough/</loc>
+<lastmod>2021-09-20T19:26:12+02:00</lastmod>
 <image:image>
-<image:loc>https://blog.syncpundit.ml/media/posts/3/vulversity-2.png</image:loc>
-<image:title><![CDATA[vulnversity home page]]></image:title>
+<image:loc>https://blog.syncpundit.ml/media/posts/3/vulversity.png</image:loc>
+<image:title><![CDATA[Vulnversity]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/3/lets-go.png</image:loc>
@@ -238,6 +242,90 @@
 <image:image>
 <image:loc>https://blog.syncpundit.ml/media/posts/3/root-flag.png</image:loc>
 <image:title><![CDATA[root flag]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.syncpundit.ml/uranium-ctf-walkthrough/</loc>
+<lastmod>2021-09-22T22:02:44+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-logo-3.jpeg</image:loc>
+<image:title><![CDATA[uranium.thm logo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-domain.png</image:loc>
+<image:title><![CDATA[uranium domain]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-username.png</image:loc>
+<image:title><![CDATA[uranium email]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-file-policy.png</image:loc>
+<image:title><![CDATA[uranium filename policy]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-nmap-recon.png</image:loc>
+<image:title><![CDATA[uranium nmap scan]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-initial-access-2.png</image:loc>
+<image:title><![CDATA[uranium initial access]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-pcap-log.png</image:loc>
+<image:title><![CDATA[uranium pcap file]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-get-the-pcap.png</image:loc>
+<image:title><![CDATA[uranium pcap file]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-tcp-stream.png</image:loc>
+<image:title><![CDATA[uranium tcp stream]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-user-pass.png</image:loc>
+<image:title><![CDATA[uranium chat with kral4]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-sudo-perm.png</image:loc>
+<image:title><![CDATA[uranium sudo -l]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-SUID-search.png</image:loc>
+<image:title><![CDATA[uranium suid search]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-mail.png</image:loc>
+<image:title><![CDATA[uranium /var/mail]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-dd.png</image:loc>
+<image:title><![CDATA[uranium dd command]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-web-flag.png</image:loc>
+<image:title><![CDATA[uranium web flag]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-nano.png</image:loc>
+<image:title><![CDATA[uranium nano]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-new-mail.png</image:loc>
+<image:title><![CDATA[uranium new mail]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-nano-got-SUID.png</image:loc>
+<image:title><![CDATA[uranium nano got suid]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-nano-got-SUID-now.png</image:loc>
+<image:title><![CDATA[uranium nano has suid]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.ml/media/posts/6/uranium-root.png</image:loc>
+<image:title><![CDATA[uranium root access]]></image:title>
 </image:image>
 </url>
 </urlset>
