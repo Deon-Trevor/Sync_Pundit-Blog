@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "7fc5a2a4c0d78715fcad46649407bb73"
+        "md5": "966ac989604aa4c1d1ebe38f27c4f90a"
     },
     {
         "path": "amp",
@@ -22,7 +22,7 @@
     {
         "path": "/amp/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "39d0bece55a1b147cd51935418dd92a8"
+        "md5": "1dd1462813b2502feb23309d230499c8"
     },
     {
         "path": "amp/authors/sync_pundit/page",
@@ -37,12 +37,12 @@
     {
         "path": "/amp/authors/sync_pundit/page/2/index.html",
         "type": "file",
-        "md5": "1582a3d408778741073ec2329bcc8a33"
+        "md5": "458a1f458218be9779635b4f745c9854"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
-        "md5": "8e0f56a7a482e04d59453a10fc7503e8"
+        "md5": "4eb6ef98ac2eeff6d69a4b7d12430912"
     },
     {
         "path": "amp/metamask-phisher-plays-the-victim",
@@ -52,7 +52,7 @@
     {
         "path": "/amp/metamask-phisher-plays-the-victim/index.html",
         "type": "file",
-        "md5": "619856a06dc8951f70d2498acfe75758"
+        "md5": "c213c004a26e2ff71c2f97347857c5fa"
     },
     {
         "path": "amp/namecheap-home-to-phishing-sites",
@@ -62,7 +62,7 @@
     {
         "path": "/amp/namecheap-home-to-phishing-sites/index.html",
         "type": "file",
-        "md5": "4731e6b234a02cfd18551835abae7453"
+        "md5": "6dc5824fef24f413c9ff21f77016fc2f"
     },
     {
         "path": "amp/pancakeswap-and-cream-finance-dns-attack",
@@ -72,7 +72,7 @@
     {
         "path": "/amp/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "99a1fd86d17898287eedccf07ebbeed8"
+        "md5": "1958397b6b1a96de656973f38d1a0e7a"
     },
     {
         "path": "amp/romance-scam-network",
@@ -82,7 +82,7 @@
     {
         "path": "/amp/romance-scam-network/index.html",
         "type": "file",
-        "md5": "6db29f2690a09894b5353bddde790ce9"
+        "md5": "90698dbdee3500babf98079601e56973"
     },
     {
         "path": "amp/spacex-bitcoin-giveaway",
@@ -92,7 +92,7 @@
     {
         "path": "/amp/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "844d840c55828d4f9a1905939eb4723f"
+        "md5": "55e90717d9eb355b21d9aa712ade2fd1"
     },
     {
         "path": "amp/sync",
@@ -107,7 +107,7 @@
     {
         "path": "/amp/sync/phishing/index.html",
         "type": "file",
-        "md5": "8e2876e243fa47addb0900db6756ddeb"
+        "md5": "a9251219272e3a685588fb15bcc88805"
     },
     {
         "path": "amp/sync/research",
@@ -117,7 +117,7 @@
     {
         "path": "/amp/sync/research/index.html",
         "type": "file",
-        "md5": "555f570132f6c88509f6365b1801d360"
+        "md5": "83c6e8bb8181b6c27ab3195d4f76bd8c"
     },
     {
         "path": "amp/sync/threat-intel",
@@ -127,7 +127,7 @@
     {
         "path": "/amp/sync/threat-intel/index.html",
         "type": "file",
-        "md5": "7e3392415965593d262da267d1b8ed39"
+        "md5": "24d23e3150e5dfd4e24780d67c104398"
     },
     {
         "path": "amp/sync/walkthroughs",
@@ -137,7 +137,7 @@
     {
         "path": "/amp/sync/walkthroughs/index.html",
         "type": "file",
-        "md5": "107854477c58d0d40177318faa0f2701"
+        "md5": "bc02045a08045ea10e7063cb472298d2"
     },
     {
         "path": "amp/tryhackme-vulnversity-walkthrough",
@@ -147,7 +147,7 @@
     {
         "path": "/amp/tryhackme-vulnversity-walkthrough/index.html",
         "type": "file",
-        "md5": "8466289f9d8a3ed34b82f3141f9166cb"
+        "md5": "51b25ed8e84b61a18d6e31ba9a24374b"
     },
     {
         "path": "amp/uranium-ctf-walkthrough",
@@ -157,7 +157,7 @@
     {
         "path": "/amp/uranium-ctf-walkthrough/index.html",
         "type": "file",
-        "md5": "60251b583f5cf9163ff8087e7a8e9af4"
+        "md5": "7a159d8beab5ee64b033fa2a9bb379f7"
     },
     {
         "path": "assets",
@@ -377,7 +377,7 @@
     {
         "path": "/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "1c855539ddee4dbb21559ca5b9c882b8"
+        "md5": "6b3788ee103378bab48ef6918701c2dd"
     },
     {
         "path": "authors/sync_pundit/page",
@@ -392,12 +392,12 @@
     {
         "path": "/authors/sync_pundit/page/2/index.html",
         "type": "file",
-        "md5": "d59928316b20db959e7687d5d76f3ef9"
+        "md5": "463c965dc86308f78c7cfc72933e256f"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "7e657f471c6adcca4991e8cdd0b78b46"
+        "md5": "442b3c5be5c65e324b0d85b764b570ad"
     },
     {
         "path": "media",
@@ -2205,9 +2205,19 @@
         "md5": false
     },
     {
+        "path": "/media/website/Background-2.png",
+        "type": "file",
+        "md5": "c2576b7540ab16a449c8b91002ef6efe"
+    },
+    {
         "path": "/media/website/Background.png",
         "type": "file",
         "md5": "c2576b7540ab16a449c8b91002ef6efe"
+    },
+    {
+        "path": "/media/website/Head.png",
+        "type": "file",
+        "md5": "aca3f7558905bad7f5ab7dd297425e49"
     },
     {
         "path": "/media/website/favicon-3.png",
@@ -2223,6 +2233,36 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Background-2-2xl.png",
+        "type": "file",
+        "md5": "6a0bc5ade075520f7f801e2c4f6516c4"
+    },
+    {
+        "path": "/media/website/responsive/Background-2-lg.png",
+        "type": "file",
+        "md5": "054892cb516ffab927dcf632206d674a"
+    },
+    {
+        "path": "/media/website/responsive/Background-2-md.png",
+        "type": "file",
+        "md5": "bfd394e85b753568c12615d2da8e97c7"
+    },
+    {
+        "path": "/media/website/responsive/Background-2-sm.png",
+        "type": "file",
+        "md5": "d27fc03d88e7dae7b3bd1008ad682872"
+    },
+    {
+        "path": "/media/website/responsive/Background-2-xl.png",
+        "type": "file",
+        "md5": "d8f08300eaa0f2f19d9d5b2f86385cb8"
+    },
+    {
+        "path": "/media/website/responsive/Background-2-xs.png",
+        "type": "file",
+        "md5": "65fa1c0f5a384cee7fce0087373b174d"
     },
     {
         "path": "/media/website/responsive/Background-2xl.png",
@@ -2253,6 +2293,36 @@
         "path": "/media/website/responsive/Background-xs.png",
         "type": "file",
         "md5": "65fa1c0f5a384cee7fce0087373b174d"
+    },
+    {
+        "path": "/media/website/responsive/Head-2xl.png",
+        "type": "file",
+        "md5": "5b3a4378cb7f5763d87fe94db1f320b0"
+    },
+    {
+        "path": "/media/website/responsive/Head-lg.png",
+        "type": "file",
+        "md5": "5b3a4378cb7f5763d87fe94db1f320b0"
+    },
+    {
+        "path": "/media/website/responsive/Head-md.png",
+        "type": "file",
+        "md5": "acad69981ba7cf1ffb84545ccc82717d"
+    },
+    {
+        "path": "/media/website/responsive/Head-sm.png",
+        "type": "file",
+        "md5": "e7cf9ebdbc34cec281fa90272eeb1abb"
+    },
+    {
+        "path": "/media/website/responsive/Head-xl.png",
+        "type": "file",
+        "md5": "5b3a4378cb7f5763d87fe94db1f320b0"
+    },
+    {
+        "path": "/media/website/responsive/Head-xs.png",
+        "type": "file",
+        "md5": "f88cfff796963cd46096bb88bcc6317f"
     },
     {
         "path": "/media/website/responsive/favicon-3-2xl.png",
@@ -2357,7 +2427,7 @@
     {
         "path": "/metamask-phisher-plays-the-victim/index.html",
         "type": "file",
-        "md5": "f793f4dbb9539a875e30d0f85a883486"
+        "md5": "17ebf521b7051708799f276f7003c591"
     },
     {
         "path": "namecheap-home-to-phishing-sites",
@@ -2367,7 +2437,7 @@
     {
         "path": "/namecheap-home-to-phishing-sites/index.html",
         "type": "file",
-        "md5": "f869cafaa5a8df6d933b615cf81d8e70"
+        "md5": "d6a8601a3adefc49b45fe4e0643487a7"
     },
     {
         "path": "pancakeswap-and-cream-finance-dns-attack",
@@ -2377,7 +2447,7 @@
     {
         "path": "/pancakeswap-and-cream-finance-dns-attack/index.html",
         "type": "file",
-        "md5": "07b166eb0ddea86796896948400a5baa"
+        "md5": "510fff63f9de5c5876e1d9f1f1e2804a"
     },
     {
         "path": "romance-scam-network",
@@ -2387,12 +2457,12 @@
     {
         "path": "/romance-scam-network/index.html",
         "type": "file",
-        "md5": "bf118e5cc4b4469c173e411cd073d4f3"
+        "md5": "c1a88bb45c901fa5e3cd3c373d208908"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "73bc2aef5ef3d96f25167071585d07c5"
+        "md5": "0556dd412595f0a877bcfe4e9b8bb35c"
     },
     {
         "path": "sitemap.xsl",
@@ -2407,7 +2477,7 @@
     {
         "path": "/spacex-bitcoin-giveaway/index.html",
         "type": "file",
-        "md5": "6c6503cd04a7ea3b481d62e0389d26ab"
+        "md5": "17555f0b5a31552312d13813b4619b60"
     },
     {
         "path": "sync",
@@ -2422,7 +2492,7 @@
     {
         "path": "/sync/phishing/index.html",
         "type": "file",
-        "md5": "723b210296f7ca0f66b84465fa9b97ba"
+        "md5": "eed824fc2c1b045f6f31f5da7bd416e2"
     },
     {
         "path": "sync/research",
@@ -2432,7 +2502,7 @@
     {
         "path": "/sync/research/index.html",
         "type": "file",
-        "md5": "9b934af7437087b86fe93792d470fd7e"
+        "md5": "69f38f400e67818debec164d80f141a5"
     },
     {
         "path": "sync/threat-intel",
@@ -2442,7 +2512,7 @@
     {
         "path": "/sync/threat-intel/index.html",
         "type": "file",
-        "md5": "ca1972dc925230222e32a475a03ff987"
+        "md5": "69e6d72cffdffb55fa162176630b2197"
     },
     {
         "path": "sync/walkthroughs",
@@ -2452,7 +2522,7 @@
     {
         "path": "/sync/walkthroughs/index.html",
         "type": "file",
-        "md5": "5f93155e84bd13f2c2491a2440f31374"
+        "md5": "ec0017706d59d1e1e082e276449b8feb"
     },
     {
         "path": "tryhackme-vulnversity-walkthrough",
@@ -2462,7 +2532,7 @@
     {
         "path": "/tryhackme-vulnversity-walkthrough/index.html",
         "type": "file",
-        "md5": "f20359c4222a1dd1f03965dacdbc7e7c"
+        "md5": "6df2f97a1714b7ac93e456edbcd1827b"
     },
     {
         "path": "uranium-ctf-walkthrough",
@@ -2472,6 +2542,6 @@
     {
         "path": "/uranium-ctf-walkthrough/index.html",
         "type": "file",
-        "md5": "de6d52e406884a6928939111d44d89aa"
+        "md5": "9e5a4630014206880b47fe739ed4c8be"
     }
 ]
