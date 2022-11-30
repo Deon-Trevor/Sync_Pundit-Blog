@@ -22,7 +22,7 @@
     {
         "path": "/amp/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "1dd1462813b2502feb23309d230499c8"
+        "md5": "b074e4472e80f688db264d5e2f1e028c"
     },
     {
         "path": "amp/authors/sync_pundit/page",
@@ -37,12 +37,22 @@
     {
         "path": "/amp/authors/sync_pundit/page/2/index.html",
         "type": "file",
-        "md5": "458a1f458218be9779635b4f745c9854"
+        "md5": "dd1f1f8a70184caebcd45be74dbb2f0e"
     },
     {
         "path": "/amp/index.html",
         "type": "file",
         "md5": "4eb6ef98ac2eeff6d69a4b7d12430912"
+    },
+    {
+        "path": "amp/is-established-titles-a-scam",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/is-established-titles-a-scam/index.html",
+        "type": "file",
+        "md5": "84ff5344da4c207e06ffd42349a9bed9"
     },
     {
         "path": "amp/metamask-phisher-plays-the-victim",
@@ -117,7 +127,7 @@
     {
         "path": "/amp/sync/research/index.html",
         "type": "file",
-        "md5": "83c6e8bb8181b6c27ab3195d4f76bd8c"
+        "md5": "22c4ddb2758760c657e12d06e863a03f"
     },
     {
         "path": "amp/sync/threat-intel",
@@ -127,7 +137,7 @@
     {
         "path": "/amp/sync/threat-intel/index.html",
         "type": "file",
-        "md5": "24d23e3150e5dfd4e24780d67c104398"
+        "md5": "b639df634bd55beac832fdccb18f1b13"
     },
     {
         "path": "amp/sync/walkthroughs",
@@ -377,7 +387,7 @@
     {
         "path": "/authors/sync_pundit/index.html",
         "type": "file",
-        "md5": "6b3788ee103378bab48ef6918701c2dd"
+        "md5": "ecdde7ff7e55178d2dc4f5a4cb98b4ff"
     },
     {
         "path": "authors/sync_pundit/page",
@@ -392,12 +402,22 @@
     {
         "path": "/authors/sync_pundit/page/2/index.html",
         "type": "file",
-        "md5": "463c965dc86308f78c7cfc72933e256f"
+        "md5": "93d0a849230f698f1a117257a955d019"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "442b3c5be5c65e324b0d85b764b570ad"
+        "md5": "8a33b0b3f98418a6a72deb4d9b88e142"
+    },
+    {
+        "path": "is-established-titles-a-scam",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/is-established-titles-a-scam/index.html",
+        "type": "file",
+        "md5": "bbd44b82d0d0e815e65d042d0a0adba9"
     },
     {
         "path": "media",
@@ -2200,6 +2220,536 @@
         "md5": "89ccc348761b5e4203422f2724d25789"
     },
     {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-16-45-52.png",
+        "type": "file",
+        "md5": "b5750c2f965d3a0dcc0db217e11ba048"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-17-21-31-2.png",
+        "type": "file",
+        "md5": "12ecb57abca4247490d78a9cb532c8af"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-17-25-17.png",
+        "type": "file",
+        "md5": "d2174db09be8fe043452680f49b63280"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-17-26-09.png",
+        "type": "file",
+        "md5": "e4ccd8407f21f91600f5ba1b8884d0ca"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-17-27-09.png",
+        "type": "file",
+        "md5": "4230cc6542cd4d0ee60f2e6ba1771b60"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-17-29-41.png",
+        "type": "file",
+        "md5": "e04ba41eca4e7229682f43e46a295593"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-17-34-58.png",
+        "type": "file",
+        "md5": "ade1e497dc1c7d0e2a39917e08ca57d2"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-18-48-48.png",
+        "type": "file",
+        "md5": "1fc7abf06ee4d701531d8d9182bb092f"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-19-31-07.png",
+        "type": "file",
+        "md5": "d699c4a84a95a195f49228202814f4bc"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-19-35-30.png",
+        "type": "file",
+        "md5": "3927626aa649bf18ff3eb03395c54af8"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-19-57-32.png",
+        "type": "file",
+        "md5": "6f685116c586cd6ea463d799a47a7ab2"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-20-04-14.png",
+        "type": "file",
+        "md5": "a1bc46fedab18b26cea9445ddbb47f65"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-20-05-28.png",
+        "type": "file",
+        "md5": "3aedba48044d6ea689ad6c8f741e577d"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-20-13-43.png",
+        "type": "file",
+        "md5": "f8478313fa989ad8e73db19bf5027987"
+    },
+    {
+        "path": "/media/posts/8/Screenshot-from-2022-11-30-20-27-45.png",
+        "type": "file",
+        "md5": "4bd741b3f62a70c1d2b3afa61127ad51"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-16-45-52-lg.png",
+        "type": "file",
+        "md5": "071766b237701cce5327ec98ae2650c6"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-16-45-52-md.png",
+        "type": "file",
+        "md5": "ee7deac92d5f82176fd58108902c821a"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-16-45-52-sm.png",
+        "type": "file",
+        "md5": "3689f59eb6de65ea245bcc752c3b0e68"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-16-45-52-xl.png",
+        "type": "file",
+        "md5": "f81d2c6bd11ead9aec5b940976e47048"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-16-45-52-xs.png",
+        "type": "file",
+        "md5": "a9766b1200efb6721f39e7fbb6edc8bc"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-21-31-2-2xl.png",
+        "type": "file",
+        "md5": "7b3c8b65cf24960571bf4dff71a8fd07"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-21-31-2-lg.png",
+        "type": "file",
+        "md5": "4c656ded7fa735ce31afe454974b0742"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-21-31-2-md.png",
+        "type": "file",
+        "md5": "aeca164de9d0af10289a9562257fa8f5"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-21-31-2-sm.png",
+        "type": "file",
+        "md5": "6eb562c74bcdb75e70e939744c7626a1"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-21-31-2-xl.png",
+        "type": "file",
+        "md5": "ecc02fc8707a597fc5680eeebaf0c79a"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-21-31-2-xs.png",
+        "type": "file",
+        "md5": "f8478313fa989ad8e73db19bf5027987"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-25-17-2xl.png",
+        "type": "file",
+        "md5": "f1e182b583edfd4d59e4158063f34f54"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-25-17-lg.png",
+        "type": "file",
+        "md5": "57889187a2d78d92686c4abfba6f5f3f"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-25-17-md.png",
+        "type": "file",
+        "md5": "c94ec9a8067a6b41bb5a76f4980391d7"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-25-17-sm.png",
+        "type": "file",
+        "md5": "eafcd724e19d5605c7daf286ecb7e57f"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-25-17-xl.png",
+        "type": "file",
+        "md5": "ca3505dd6cc6b4c1730be4d2cae6fe7e"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-25-17-xs.png",
+        "type": "file",
+        "md5": "6ad0e1cfb1d9db1fdd2acfef43a8ad90"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-26-09-2xl.png",
+        "type": "file",
+        "md5": "99fe0cced8048b7cd7d8ffc0463486c5"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-26-09-lg.png",
+        "type": "file",
+        "md5": "9296ac542ba3a516762541be8e75a9c5"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-26-09-md.png",
+        "type": "file",
+        "md5": "da3c7542803d430aa10bab67803cc5b1"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-26-09-sm.png",
+        "type": "file",
+        "md5": "aa1850ffe5b164c99176f0145c2741cb"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-26-09-xl.png",
+        "type": "file",
+        "md5": "f39ea33baf3750b3229a41322ea7a3c9"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-26-09-xs.png",
+        "type": "file",
+        "md5": "d31d0f68ee7e1800564d8c6b09604912"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-27-09-2xl.png",
+        "type": "file",
+        "md5": "e756b6d80b27e11ccb072db459296436"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-27-09-lg.png",
+        "type": "file",
+        "md5": "494153e3dbb45eea1bc2733a78e06abd"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-27-09-md.png",
+        "type": "file",
+        "md5": "aeaa4dddcb68df5452233c153364f6ba"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-27-09-sm.png",
+        "type": "file",
+        "md5": "2a77f59fa782cebd809772cba2af3700"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-27-09-xl.png",
+        "type": "file",
+        "md5": "502680b8dec5c64a3be2022b20b88f8c"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-27-09-xs.png",
+        "type": "file",
+        "md5": "dc1a98b394c2ba1f81aa8db2d98259ba"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-29-41-2xl.png",
+        "type": "file",
+        "md5": "fb8ee1ac6bccad2afed871fe861e6e5d"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-29-41-lg.png",
+        "type": "file",
+        "md5": "4b6b9c3ebdba59a5289c5e28758ae55d"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-29-41-md.png",
+        "type": "file",
+        "md5": "0dc388c2c93e9fbb971445d8ed3ab6e6"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-29-41-sm.png",
+        "type": "file",
+        "md5": "fe846ceecf9d51a4c7cf88fc5d522fdc"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-29-41-xl.png",
+        "type": "file",
+        "md5": "5069bcc881a26affb7f7dbc9a477fd72"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-29-41-xs.png",
+        "type": "file",
+        "md5": "9f348215191c282b536bee185a4e9f03"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-34-58-2xl.png",
+        "type": "file",
+        "md5": "9cc4f9b7f7955d136cfe2b361fa5f62b"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-34-58-lg.png",
+        "type": "file",
+        "md5": "9cc4f9b7f7955d136cfe2b361fa5f62b"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-34-58-md.png",
+        "type": "file",
+        "md5": "9cc4f9b7f7955d136cfe2b361fa5f62b"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-34-58-sm.png",
+        "type": "file",
+        "md5": "0995dac8e92c3c29f21fcb79ecbdfbc0"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-34-58-xl.png",
+        "type": "file",
+        "md5": "9cc4f9b7f7955d136cfe2b361fa5f62b"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-17-34-58-xs.png",
+        "type": "file",
+        "md5": "b8264d4eb460d6c5038a7c35ab080698"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-18-48-48-2xl.png",
+        "type": "file",
+        "md5": "ef240eb0a666f151d0d52873b0eee41b"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-18-48-48-lg.png",
+        "type": "file",
+        "md5": "ef240eb0a666f151d0d52873b0eee41b"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-18-48-48-md.png",
+        "type": "file",
+        "md5": "ef240eb0a666f151d0d52873b0eee41b"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-18-48-48-sm.png",
+        "type": "file",
+        "md5": "5db38fc5a2bcd5c24b57e8856f1b1365"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-18-48-48-xl.png",
+        "type": "file",
+        "md5": "ef240eb0a666f151d0d52873b0eee41b"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-18-48-48-xs.png",
+        "type": "file",
+        "md5": "03189e7231387511ec2f4087413c95b4"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-31-07-2xl.png",
+        "type": "file",
+        "md5": "cf887101ace73a99b9da9573724b809a"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-31-07-lg.png",
+        "type": "file",
+        "md5": "cf887101ace73a99b9da9573724b809a"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-31-07-md.png",
+        "type": "file",
+        "md5": "002426727d7c8f735814a09cd96a5cb5"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-31-07-sm.png",
+        "type": "file",
+        "md5": "06bdba86d51843bf631504af5acfabda"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-31-07-xl.png",
+        "type": "file",
+        "md5": "cf887101ace73a99b9da9573724b809a"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-31-07-xs.png",
+        "type": "file",
+        "md5": "97afb85dbbe5f95f05c14805e048468d"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-35-30-2xl.png",
+        "type": "file",
+        "md5": "fb0dc89b2bd4239f06113a7d04da8635"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-35-30-lg.png",
+        "type": "file",
+        "md5": "fb0dc89b2bd4239f06113a7d04da8635"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-35-30-md.png",
+        "type": "file",
+        "md5": "5fa9a788337c56144aa6811a8a36ac7a"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-35-30-sm.png",
+        "type": "file",
+        "md5": "6de8224ce633b3ad1b4681e56d26a62a"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-35-30-xl.png",
+        "type": "file",
+        "md5": "fb0dc89b2bd4239f06113a7d04da8635"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-35-30-xs.png",
+        "type": "file",
+        "md5": "1e7fdfc8958d879700e8809f2bc7ca6e"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-57-32-2xl.png",
+        "type": "file",
+        "md5": "6fb04ef7fd6173db6c15d539b80bbe7c"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-57-32-lg.png",
+        "type": "file",
+        "md5": "6fb04ef7fd6173db6c15d539b80bbe7c"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-57-32-md.png",
+        "type": "file",
+        "md5": "46618dc9f8080a14e95e28219cecf7e1"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-57-32-sm.png",
+        "type": "file",
+        "md5": "b501ab9f26c440640c3590f9211e0744"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-57-32-xl.png",
+        "type": "file",
+        "md5": "6fb04ef7fd6173db6c15d539b80bbe7c"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-19-57-32-xs.png",
+        "type": "file",
+        "md5": "980536dd62aa54222f4a58c30f40f969"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-04-14-2xl.png",
+        "type": "file",
+        "md5": "5b4dc659eda16e0d49a9f9fedaac0b80"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-04-14-lg.png",
+        "type": "file",
+        "md5": "5b4dc659eda16e0d49a9f9fedaac0b80"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-04-14-md.png",
+        "type": "file",
+        "md5": "efe17af7f421fad2b669f2ff2b51b904"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-04-14-sm.png",
+        "type": "file",
+        "md5": "d15c2ad3ed8890c5dc25802c2ccbc346"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-04-14-xl.png",
+        "type": "file",
+        "md5": "5b4dc659eda16e0d49a9f9fedaac0b80"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-04-14-xs.png",
+        "type": "file",
+        "md5": "de13776db7967c17efd304e1279bf632"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-05-28-2xl.png",
+        "type": "file",
+        "md5": "2c0c6386ef8f831c07b02da4612e8db5"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-05-28-lg.png",
+        "type": "file",
+        "md5": "2c0c6386ef8f831c07b02da4612e8db5"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-05-28-md.png",
+        "type": "file",
+        "md5": "621293b63972cc6703fd2ea794041b21"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-05-28-sm.png",
+        "type": "file",
+        "md5": "bcd33ebca64b34a2e408585f0f0a26b0"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-05-28-xl.png",
+        "type": "file",
+        "md5": "2c0c6386ef8f831c07b02da4612e8db5"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-05-28-xs.png",
+        "type": "file",
+        "md5": "b9d42aee2d3a534085c76c9e102656f5"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-13-43-2xl.png",
+        "type": "file",
+        "md5": "2672f6977e022e9b82ea633d64ed970e"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-13-43-lg.png",
+        "type": "file",
+        "md5": "4e07f72a0cd62143e5e94dca1044838d"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-13-43-md.png",
+        "type": "file",
+        "md5": "e94d36c9c7abe8744be03c731f5c3cdf"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-13-43-sm.png",
+        "type": "file",
+        "md5": "7aafda00312b1df979dde0cc5cb10f27"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-13-43-xl.png",
+        "type": "file",
+        "md5": "2672f6977e022e9b82ea633d64ed970e"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-13-43-xs.png",
+        "type": "file",
+        "md5": "4d0dfaa184eefd669fd92d69be71bd74"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-27-45-2xl.png",
+        "type": "file",
+        "md5": "1dcddfa42aef38e6d6c0faed7e17c2a2"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-27-45-lg.png",
+        "type": "file",
+        "md5": "ed9bec1e1f9191f0c8d8b6738c2a90e1"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-27-45-md.png",
+        "type": "file",
+        "md5": "0b833a8bae47c2c680802a664b177c6d"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-27-45-sm.png",
+        "type": "file",
+        "md5": "ce014ec648f6f5cf0032831ca9e63882"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-27-45-xl.png",
+        "type": "file",
+        "md5": "da5c9e7a09771281ea09e5bfddfd1a42"
+    },
+    {
+        "path": "/media/posts/8/responsive/Screenshot-from-2022-11-30-20-27-45-xs.png",
+        "type": "file",
+        "md5": "446a1a8c83ef4e9f5568220171a07fd9"
+    },
+    {
         "path": "media/website",
         "type": "directory",
         "md5": false
@@ -2457,12 +3007,12 @@
     {
         "path": "/romance-scam-network/index.html",
         "type": "file",
-        "md5": "c1a88bb45c901fa5e3cd3c373d208908"
+        "md5": "bcfed3638bd0a0dc8c54e1fad9e03b1f"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "0556dd412595f0a877bcfe4e9b8bb35c"
+        "md5": "14743539c87c7fb0a44f8252b070e439"
     },
     {
         "path": "sitemap.xsl",
@@ -2502,7 +3052,7 @@
     {
         "path": "/sync/research/index.html",
         "type": "file",
-        "md5": "69f38f400e67818debec164d80f141a5"
+        "md5": "09b0c06c6aa7b8abf15e75b3e97bb11a"
     },
     {
         "path": "sync/threat-intel",
@@ -2512,7 +3062,7 @@
     {
         "path": "/sync/threat-intel/index.html",
         "type": "file",
-        "md5": "69e6d72cffdffb55fa162176630b2197"
+        "md5": "02ebfdd004f561555466acfa40773f52"
     },
     {
         "path": "sync/walkthroughs",
